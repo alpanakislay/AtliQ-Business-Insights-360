@@ -107,6 +107,7 @@ project video link :
 3. Business and domain knowledge in sales,finance,marketing and supply chain.
 
 **Conclusion**
+
 This dashboard answers many business questions based on different scenerio.
 
 This report can be used to take data driven decision to make AtliQ more profitable.
