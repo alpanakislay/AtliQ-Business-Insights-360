@@ -100,6 +100,8 @@ project video link : https://youtu.be/1Masn106214
 7. YTG (year to go)
 8. YTD ( year to date)
 9. Direct ,retailer, consumer and distributors
+
+    
 ![image](https://github.com/alpanakislay/AtliQ-Business-Insights-360/assets/170240674/10d85785-e8fd-4fc7-809f-3623bfb6b003)
 
 
@@ -117,6 +119,7 @@ Add & promotion: 0.5
 Other operational expenses: 0.5	(Accounting Fees, Rent, Utilities)
 
 Net profit	:4	(Gross Margin 5- Add & promotion 0.5- Other Op exp0.5)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Soft Skills**
 1. Stakeholders mapping analysis.
