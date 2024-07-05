@@ -101,12 +101,21 @@ project video link : https://youtu.be/1Masn106214
 8. YTD ( year to date)
 9. Direct ,retailer, consumer and distributors
 ![image](https://github.com/alpanakislay/AtliQ-Business-Insights-360/assets/170240674/10d85785-e8fd-4fc7-809f-3623bfb6b003)
+
+
 Where Pre Invoice Deduction is just a yearly discount agreement made at the beginning of the year.
+
 ![image](https://github.com/alpanakislay/AtliQ-Business-Insights-360/assets/170240674/7daa5b5a-90dc-47f9-93cf-92a89c6487d7)
+
 ![image](https://github.com/alpanakislay/AtliQ-Business-Insights-360/assets/170240674/c06229e3-baa4-4587-9267-ce09467dde9a)
+
+
 Gross Margin % net Sales (GM/ NS)= 20%  (5/25=0.2)
--	Add & promotion: 0.5
--	Other operational expenses: 0.5	(Accounting Fees, Rent, Utilities)
+
+Add & promotion: 0.5
+
+Other operational expenses: 0.5	(Accounting Fees, Rent, Utilities)
+
 Net profit	:4	(Gross Margin 5- Add & promotion 0.5- Other Op exp0.5)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Soft Skills**
